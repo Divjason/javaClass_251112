@@ -1,0 +1,23 @@
+- c > java
+- 백엔드 > java > 객체지향 프로그래밍 언어
+> javascript, typescript, python
+- python
+
+박세진
+- 2008
+- KT&G / CJ / DW
+- 2019 > 강의
+
+1) code editor
+- vscode, atom > cursor /
+- 코드 입력 > 화면출력 / 실행
+- 컴파일러 : extention
+
+2) IDE
+- java
+- 이클립스 VS 인텔리J
+- java // JDK = Java Development Kit
+- JVM // JRE
+
+
+
