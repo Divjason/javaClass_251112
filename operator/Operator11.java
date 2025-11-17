@@ -7,7 +7,7 @@ public class Operator11 {
         int a3 = 5;
         
         a1 += 3;
-        System.out.println(a);
+        System.out.println(a1);
 
         a1 = 5;
 
@@ -20,6 +20,6 @@ public class Operator11 {
         // 컴퓨터 작동 원리
         // 변수 선언 => 컴퓨터 메모리공간 => 선언한 변수의 값이 담겨있는 방
         // 방 => 주소
-        System.out.println(a);
+        System.out.println(a1);
     }
 }
