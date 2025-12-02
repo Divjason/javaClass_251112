@@ -1,0 +1,52 @@
+*개발 프로젝트
+: 3~4명
+: 7~10명
+
+*user
+ > User
+ > UserManager
+
+*product
+ > Product
+ > ProductCatalog
+
+*order
+ > Order
+ > OrderService
+ > OrderHistory
+
+*cart
+ > ShoppingCart
+ > CartItem
+
+*payment
+ > Payment
+ > PaymentHistory
+
+*shipping
+ > Shipment
+ > ShipmentTracker
+
+*클래스
+*객체지향 프로그래밍 언어 코드
+*생성자(함수)
+*패키지
+*접근제어자
+
+> Data 클래스 선언
+- 필드(비필수) & 생성자 함수
+- 생성자 함수 != 일반적인 함수x
+- 반환값을 정의하는 입력자료형 x
+- 입력자료형을 적용하는 순간 -> 메서드 함수
+
+> 외부에서의 접근 범위를 어느정도로 허용해줄것인가?
+
+*public : 어떤 패키지든지 상관없이 가져다가 호출 가능!!!
+*private : 본인 클래스 안에서만 가져다 사용가능!! 모든 외부 호출 원천차단!!
+*protected : 오직 동일한 패키지 안에서만 호출 가능!!! (예외 사항, 비록 패키지가 달라도, 클래스간 상속관계에서만 허용)
+*default (접근제어자를 선언하지 않았을 때) : 오직 동일한 패키지 안에서만 호출 가능!!!
+
+private > default > protected > public
+
+
+
